@@ -17,5 +17,6 @@ pipeline {
                                 echo "your password is: ${params.PASSWORD}"
                         }
                 }
+
         }
 }
